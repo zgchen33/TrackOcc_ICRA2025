@@ -2,4 +2,4 @@
 
 We will release more details here.
 
-![demo](./asserts/suburban.gif)
+![demo](./asserts/suburb.gif)
